@@ -1,5 +1,5 @@
 {
-  "name": "polygonopensea",
+  "name": "polygon-opensea",
   "license": "MIT",
   "scripts": {
     "codegen": "graph codegen",
